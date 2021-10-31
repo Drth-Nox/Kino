@@ -10,6 +10,12 @@ Head:apyr https://booth.pm/en/items/2581717 (Heavly edited)
 
 Base: ImLexz https://imlexz.gumroad.com/l/lexzbasev2?recommended_by=library
 
+Pasties: Darth Nox#0001
+BodySuit: Darth Nox#0001
+Horns: Darth Nox#0001
+Nose Ring: Darth Nox#0001
+Face Chain: Darth Nox#0001
+
 
 # Requirements
 
