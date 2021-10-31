@@ -1,4 +1,5 @@
 # Kino
+![kino screen](https://user-images.githubusercontent.com/77518058/139568099-47d3c939-9127-433e-a14d-de354c3a3a58.png)
 
 Hair: Onion#1515 https://onionvr.gumroad.com/l/ShyHair?recommended_by=library
 
